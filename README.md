@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Autoencodeurs & GANs : Génération et Reconstitution de Données
 
 ## Étude de cas : Prédiction de la maladie d'Alzheimer avec des modèles génératifs
@@ -112,4 +111,3 @@ flowchart TD
 ## 📜 **Licence**
 
 Ce projet est proposé à titre éducatif. Respecter la licence des données Kaggle.
-````
