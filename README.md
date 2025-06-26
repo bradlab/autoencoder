@@ -101,10 +101,13 @@ flowchart TD
 
 ---
 
-## 🙏 **Contributeurs**
+## 📫 Contact
 
-- Projet réalisé par [ton nom ou équipe]
-- Contact : [ton email]
+Pour toute question ou contribution :
+
+- Auteur : **bradlab**
+- Email : `matbradiouf@gmail.com`
+- GitHub : [https://github.com/bradlab](https://github.com/bradlab)
 
 ---
 
