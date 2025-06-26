@@ -35,7 +35,7 @@ flowchart TD
 
     subgraph A_details [ ]
       A1[Statistiques descriptives]
-      A2[Visualisations (courbes, histogrammes, boxplots)]
+      A2[Visualisations: courbes, histogrammes, boxplots]
       A --> A1
       A --> A2
     end
@@ -43,9 +43,9 @@ flowchart TD
     subgraph B_details [ ]
       B1[Corrélations]
       B2[Nettoyage des données]
-      B3[Détection d’anomalies (Autoencodeur)]
-      B4[Réduction de dimension (Autoencodeur, 8D)]
-      B5[Enrichissement des données (GAN)]
+      B3[Détection d’anomalies: Autoencodeur]
+      B4[Réduction de dimension: Autoencodeur, 8D]
+      B5[Enrichissement des données: GAN]
       B --> B1
       B --> B2
       B --> B3
@@ -55,10 +55,10 @@ flowchart TD
 
     subgraph C_details [ ]
       C1[Séparation train/test]
-      C2[Entraînement de modèles (RF, SVM)]
-      C3[Données GAN dans le train]
+      C2[Entraînement de modèles: RF, SVM]
+      C3[Ajout de données GAN au train]
       C4[Validation sur données réelles]
-      C5[Deep Learning (MLP)]
+      C5[Deep Learning: MLP]
       C --> C1
       C --> C2
       C --> C3
